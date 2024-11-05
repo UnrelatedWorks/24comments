@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#sets up multiple monitors and screens 
+
 # Install screen and pytchat
 sudo apt-get update
 sudo apt-get install -y screen
