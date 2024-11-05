@@ -1,7 +1,10 @@
 24comments
 Overview
 
-24comments is a community-driven project aimed at gathering and analyzing Open Source Intelligence (OSINT) comments from live YouTube streams from the 2024 election. The goal is to collect data from various streams, compare the results, and observe how viewer sentiments shift over time, especially in relation to other channels. By running the software simultaneously, we can gain insights into when and how viewers' opinions change.
+24comments is a community-driven project aimed at gathering and analyzing Open Source Intelligence (OSINT) comments from live YouTube streams from the 2024 election. The goal is to collect data from various streams, compare the results, and observe how viewer sentiments shift over time, especially in relation to other channels.
+
+Currently it just monitors "bigger" outlets, I'd be up to accepting comments from other streams.
+
 Features
 
     Collect comments from live YouTube streams in real-time.
